@@ -1,5 +1,5 @@
 import React from "react";
-import ProductPageCard from "../Components/ProductPageCard";
+import ProductPageCard from "../Components/ProductPageCard.jsx";
 import { useEffect,useState } from "react";
 import axios from "axios";
 import { useParams } from 'react-router-dom';

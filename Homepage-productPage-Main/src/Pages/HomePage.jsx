@@ -1,5 +1,5 @@
 import axios from "axios";
-import ProductCard from "../Components/ProductCard";
+import ProductCard from "../Components/ProductCard.jsx";
 import { useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
 import Row from 'react-bootstrap/Row';

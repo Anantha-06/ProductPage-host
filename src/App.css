@@ -1,0 +1,12 @@
+.Product-Image,.productimage-card{
+  height: 250px;
+  width: 100%;}
+
+  .CardBorder{
+    height: 500px;
+  }
+
+.productimage-card{
+  width:400px;
+  height: 400px;
+}
